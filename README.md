@@ -1,6 +1,6 @@
 # Qwen2.5 Arabic Medical Chatbot
 
-**NOTE: This project is not complete. I am still working on improving the model and the data.**
+**NOTE: I am still working on improving the model and the data.**
 
 ## Overview
 This is my graduation project. The goal is to create a medical chatbot that speaks Arabic. I used the Qwen 2.5 model (3 Billion parameters) as the base. I applied RAG (Retrieval Augmented Generation) so the bot can search a medical database before answering.
